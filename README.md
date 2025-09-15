@@ -1,9 +1,4 @@
-# 📊 Sales Insights Dashbord | 
-# <img src= "https://www.google.com/search?q=adidas+logo&oq=adidas+logo&gs_lcrp=EgZjaHJvbWUyDAgAEEUYORixAxiABDIKCAEQABixAxiABDIHCAIQABiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCjE0OTczajBqMTWoAgiwAgHxBeGOoxHLwCyg&sourceid=chrome&ie=UTF-8#vhid=hRwr6wlK0it0lM&vssid=_HtLHaOClFcuZseMP35GA8Ak_42" alt="Adidas Logo" width="40"/> Adidas Sales Analysis Dashboard
-
-A dynamic *Power BI* dashboard providing a deep dive into the sales performance of Adidas products across various branches. This analysis uncovers key trends in customer behavior, product performance, and payment methods to drive strategic business decisions.
-
-![Adidas Dashboard Preview](images/dashboard-preview.png) 
+# 📊 Adidas Sales Analysis | 
 
 
 ## 📖  Overview
@@ -35,11 +30,11 @@ This project utilizes advanced DAX to calculate critical business metrics:
 - YoY Growth = DIVIDE([Total Sales] - CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date])), CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date])))
 
 ---
-##  Build Dashboard :
+## 👨‍🎓 Build Dashboard 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop.
 Shows visualizations from Sales insights :
 
-                                                                      Key Insights
+                                                                      *Key Insights*
 <img width="1920" height="1080" alt="Screenshot 2025-09-15 140209" src="https://github.com/user-attachments/assets/f948564b-a739-4301-ad17-e4dfeafc6e2e" />
 
 
