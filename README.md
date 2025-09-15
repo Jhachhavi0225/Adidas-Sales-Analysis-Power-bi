@@ -16,9 +16,9 @@ A comprehensive Power BI Dashboard built to transform raw sales data into action
 
 ---
  ## 🛠️ Built With
-· *Microsoft Power BI Desktop* – For data modeling, DAX, and visualization
-· *Power Query* – For data extraction, transformation, and loading (ETL)
-· *DAX (Data Analysis Expressions)* – For creating calculated columns and measures. 
+- * Microsoft Power BI Desktop * – For data modeling, DAX, and visualization
+- *Power Query* – For data extraction, transformation, and loading (ETL)
+- *DAX (Data Analysis Expressions)* – For creating calculated columns and measures. 
 
 ---
 ## Key DAX Measures
