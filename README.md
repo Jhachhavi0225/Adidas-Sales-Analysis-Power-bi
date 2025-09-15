@@ -6,6 +6,8 @@ A comprehensive Power BI Dashboard built to transform raw sales data into action
 
 ---
  ## ✨ Features
+ - *Customer Insights:* What are the purchasing patterns and preferences of customers?
+
 · 📈 Executive Summary: View top-level KPIs like Total Revenue, Total Profit, Units Sold, and Profit Margin at a glance.   
 · 📅 Trend Analysis: Analyze sales and profit performance over time with interactive line and bar charts.
 · 🗺️ Geographical View: Visualize sales distribution across states and cities on an interactive map.
