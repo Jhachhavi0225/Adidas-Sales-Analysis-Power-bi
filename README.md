@@ -30,7 +30,7 @@ This project utilizes advanced DAX to calculate critical business metrics:
 - YoY Growth = DIVIDE([Total Sales] - CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date])), CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date])))
 
 ---
-##  Build Dashboard Or a Report:
+##  Build Dashboard :
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop.
 Shows visualizations from Sales insights :
 
