@@ -1,4 +1,9 @@
 # 📊 Sales Insights Dashbord | 
+# <img src="https://i.ibb.co/7n0L7y0/adidas-logo.png" alt="Adidas Logo" width="40"/> Adidas Sales Analysis Dashboard
+
+A dynamic *Power BI* dashboard providing a deep dive into the sales performance of Adidas products across various branches. This analysis uncovers key trends in customer behavior, product performance, and payment methods to drive strategic business decisions.
+
+![Adidas Dashboard Preview](images/dashboard-preview.png) 
 
 
 ## 📖  Overview
