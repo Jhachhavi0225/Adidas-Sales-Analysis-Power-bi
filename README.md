@@ -6,14 +6,12 @@ A comprehensive Power BI Dashboard built to transform raw sales data into action
 
 ---
  ## ✨ Features
- - *Customer Insights:* What are the purchasing patterns and preferences of customers?
-
-· 📈 Executive Summary: View top-level KPIs like Total Revenue, Total Profit, Units Sold, and Profit Margin at a glance.   
-· 📅 Trend Analysis: Analyze sales and profit performance over time with interactive line and bar charts.
-· 🗺️ Geographical View: Visualize sales distribution across states and cities on an interactive map.
-· 📦 Product & Category Analysis: Drill down into performance by product category and sub-category to identify best-sellers and top profits.
-· 👥 Customer Segmentation: Analyze sales by customer segments to identify top-performing groups.
-· ⚙️ Interactive Filtering: Use slicers for Year, Quarter, Month, Region, and Product Category to slice the data dynamically.
+· *📈 *Executive Summary*: View top-level KPIs like Total Revenue, Total Profit, Units Sold, and Profit Margin at a glance.   
+· *📅 *Trend Analysis:* Analyze sales and profit performance over time with interactive line and bar charts.
+· *🗺️ *Geographical View:* Visualize sales distribution across states and cities on an interactive map.
+· *📦 *Product & Category Analysis:* Drill down into performance by product category and sub-category to identify best-sellers and top profits.
+· *👥 *Customer Segmentation:* Analyze sales by customer segments to identify top-performing groups.
+· *⚙️ *Interactive Filtering:* Use slicers for Year, Quarter, Month, Region, and Product Category to slice the data dynamically.
 
 ---
  ## 🛠️ Built With
