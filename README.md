@@ -13,15 +13,15 @@ A comprehensive Power BI Dashboard built to transform raw sales data into action
 - 👥 *Customer Segmentation:* Analyze sales by customer segments to identify top-performing groups.
 - ⚙️ *Interactive Filtering:* Use slicers for Year, Quarter, Month, Region, and Product Category to slice the data dynamically.
 
-
+ 
 ---
  ## 🛠️ Built With
-- * Microsoft Power BI Desktop * – For data modeling, DAX, and visualization
+- *Microsoft Power BI Desktop* – For data modeling, DAX, and visualization
 - *Power Query* – For data extraction, transformation, and loading (ETL)
 - *DAX (Data Analysis Expressions)* – For creating calculated columns and measures. 
 
 ---
-## Key DAX Measures
+## 💡 Key DAX Measures
 This project utilizes advanced DAX to calculate critical business metrics:
 - Total Sales = SUM(Sales[Sales Amount])
 - Total Profit = SUM(Sales[Profit])
