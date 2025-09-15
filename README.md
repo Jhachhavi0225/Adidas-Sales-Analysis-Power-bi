@@ -29,6 +29,10 @@ This project utilizes advanced DAX to calculate critical business metrics:
 - YTD Sales = TOTALYTD([Total Sales], 'Date'[Date])
 - YoY Growth = DIVIDE([Total Sales] - CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date])), CALCULATE([Total Sales], SAMEPERIODLASTYEAR('Date'[Date])))
 
+---
+##  Final Result 
+<img width="1920" height="1080" alt="Screenshot 2025-09-15 140209" src="https://github.com/user-attachments/assets/f948564b-a739-4301-ad17-e4dfeafc6e2e" />
+
 
 ---
 ## 👩‍💻 Developed by *Jhachhavi*
