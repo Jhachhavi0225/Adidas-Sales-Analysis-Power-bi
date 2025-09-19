@@ -39,7 +39,7 @@ Shows visualizations from Sales insights :
 
 
 ---
-## 👩‍💻 Developed by *Jhachhavi*
+## 👩‍💻 Developed by *Chhavi_Jha*
       Data Analyst | Visual Storyteller 
 ---
 
